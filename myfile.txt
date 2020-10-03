@@ -1,1 +1,2 @@
 add register
+commit record
